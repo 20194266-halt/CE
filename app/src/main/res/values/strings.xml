@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="red">#FF5722</color>
+    <string-array name="concurrent_array">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>VND</item>
+    </string-array>
+</resources>
